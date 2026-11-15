@@ -1,0 +1,4 @@
+points_scored,event_count,mean_seconds_to_next_observation,median_seconds_to_next_observation,mean_window_seconds
+1,718,31.74373259052925,33.0,61.061281337047355
+2,978,30.478527607361965,30.0,61.62167689161554
+3,406,30.113300492610836,30.0,61.41379310344828
