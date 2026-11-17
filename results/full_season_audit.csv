@@ -1,0 +1,7 @@
+category,path,rows,files,size_mb,columns
+processed,data/processed/nba_event_price_reactions,2102,4,0.12,"event_id, play_index, token_id, condition_id, event_time, period, home_score, away_score, score_diff, points_scored, description, price_before, time_before, price_after, time_after, price_change"
+processed,data/processed/nba_events,8385,4,0.29,"away_score, away_team, clock, description, event_id, game_name, home_score, home_team, period, play_index, scheduled_start, wallclock, event_time, scheduled_start_time, previous_home_score, previous_away_score, home_points, away_points, points_scored, score_diff, is_scoring_event"
+processed,data/processed/nba_moneyline_markets,2832,4,0.39,"condition_id, event_id, event_title, game_start_time, season, trades_coverage, outcome_index, team, token_id"
+processed,data/processed/prices-2025-26.parquet,69091363,1,588.52,"condition_id, token_id, fidelity, timestamp, price"
+processed,data/processed/prices-test.parquet,34102,1,0.05,"condition_id, token_id, fidelity, timestamp, price"
+processed,data/processed/trades-2025-26.parquet,7244104,1,625.78,"transaction_hash, condition_id, token_id, outcome, outcome_index, side, price, size, timestamp, wallet"

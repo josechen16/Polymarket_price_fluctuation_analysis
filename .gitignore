@@ -4,12 +4,16 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+.env
+.env.*
 
 data/raw/
 data/processed/
 
-spark-warehouse/
-metastore_db/
-derby.log
-
+*.parquet
 *.log
+
+scripts/archive_16_games/
+scripts/archive/
+
+results/final_submission/

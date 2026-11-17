@@ -1,0 +1,30 @@
+
+=== FULL-SEASON PRICE VALIDATION ===
+
+Matched games: 2575
+Games with in-game prices: 2575
+Games without in-game prices: 0
+Games with >=200 minute observations: 2547
+
+Average minute coverage: 238.08
+Median minute coverage: 240.00
+
+Total home token rows: 0
+Total away token rows: 4,577,115
+Total unknown token rows: 0
+Total invalid price rows: 122
+
+Games by season:
+season
+2024-25    1269
+2025-26    1306
+
+Minute coverage distribution:
+count    2575.000000
+mean      238.082718
+std         7.979270
+min       121.000000
+25%       240.000000
+50%       240.000000
+75%       240.000000
+max       240.000000
